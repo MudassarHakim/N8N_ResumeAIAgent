@@ -13,4 +13,4 @@ This workflow automates email replies using Google Gemini and Gmail.
 2. Set up your own Google Gemini and Gmail credentials.
 3. Test by triggering the webhook/chat endpoint.
 
-**Note:** No credentials are included for your security.
+**Note:** No credentials are included for security purposes.
