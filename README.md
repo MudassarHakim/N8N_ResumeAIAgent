@@ -1,4 +1,4 @@
-## Resume AI Agent — n8n Workflow
+## N8N GmailAutoEmail AI Agent — n8n Workflow
 
 <img width="898" height="509" alt="Screenshot 2025-07-26 at 12 33 07 PM" src="https://github.com/user-attachments/assets/282b3d26-c831-4b42-a741-f304402f68fb" />
 
